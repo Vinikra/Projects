@@ -6,11 +6,11 @@ Repositório contendo projetos de ciência de dados, machine learning, blockchai
 ## **Estrutura do Repositório**
 ```
 📂 projetos
-   ├── 📂 machine-learning
+   ├── 📂 Machine Learning
    │   ├── projeto1/
    │   ├── projeto2/
    │   └── README.md
-   ├── 📂 blockchain
+   ├── 📂 Data Analysis
    │   ├── projeto1/
    │   ├── projeto2/
    │   └── README.md
