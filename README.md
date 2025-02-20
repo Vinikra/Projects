@@ -1,7 +1,7 @@
-# **Portfólio de Projetos – [Seu Nome]**
+# **Portfólio de Projetos – Vinicius Krasnievicz Garcia**
 
 ## **Descrição**
-Repositório contendo projetos de ciência de dados, machine learning, blockchain e automação. Cada projeto inclui documentação, código-fonte e insights obtidos a partir das análises realizadas.
+Repositório contendo projetos de ciência de dados, machine learning e automação. Cada projeto inclui documentação, código-fonte e insights obtidos a partir das análises realizadas.
 
 ## **Estrutura do Repositório**
 ```
