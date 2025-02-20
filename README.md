@@ -29,7 +29,7 @@ Repositório contendo projetos de ciência de dados, machine learning, blockchai
 ## **Como Usar**
 Clone o repositório e navegue até o diretório desejado:
 ```bash
-git clone https://github.com/seuusuario/seu-repositorio.git
+git clone https://github.com/Vinikra/Projects.git
 cd seu-repositorio
 ```
 
