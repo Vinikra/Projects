@@ -14,7 +14,7 @@ Repositório contendo projetos de ciência de dados, machine learning, blockchai
    │   ├── projeto1/
    │   ├── projeto2/
    │   └── README.md
-   ├── 📂 automacao
+   ├── 📂 Automation
    │   ├── bot-trading/
    │   ├── script-analise/
    │   └── README.md
