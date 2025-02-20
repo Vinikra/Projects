@@ -30,7 +30,7 @@ Repositório contendo projetos de ciência de dados, machine learning e automaç
 Clone o repositório e navegue até o diretório desejado:
 ```bash
 git clone https://github.com/Vinikra/Projects.git
-cd seu-repositorio
+cd Projects
 ```
 
 ## **Projetos em Destaque**
