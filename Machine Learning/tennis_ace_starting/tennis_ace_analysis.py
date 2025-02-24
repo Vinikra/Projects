@@ -10,36 +10,12 @@ df = pd.read_csv(r'/home/vinicius/Downloads/tennis_ace_starting/tennis_ace_start
 print(df.columns)
 print(df.head())
 
-
-
-
-
 # perform exploratory analysis here:
 plt.scatter(df['BreakPointsOpportunities'], df['Winnings'])
 plt.title('BreakPointsOpportunities vs Winnings')
 plt.xlabel('BreakPointsOpportunities')
 plt.ylabel('Winnings')
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## perform single feature linear regressions here:
 features = df[['FirstServeReturnPointsWon']]
@@ -53,25 +29,7 @@ prediction = model.predict(features_test)
 plt.scatter(outcome_test, prediction, alpha=0.4)
 plt.show()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## perform two feature linear regressions here:
-
 
 features_2 = df[['BreakPointsOpportunities', 'FirstServeReturnPointsWon']]
 outcome_2 = df[['Winnings']]
@@ -81,24 +39,6 @@ print(model.score(features_test_2, outcome_test_2))
 prediction_2 = model.predict(features_test_2)
 plt.scatter(outcome_test_2, prediction_2, alpha=0.4)
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## perform multiple feature linear regressions here:
 features_3 = df[['FirstServe', 'FirstServePointsWon', 'FirstServeReturnPointsWon', 'SecondServePointsWon', 'SecondServeReturnPointsWon', 'Aces', 'BreakPointsConverted', 'BreakPointsFaced', 'BreakPointsOpportunities', 'BreakPointsSaved', 'DoubleFaults', 'ReturnGamesPlayed', 'ReturnGamesWon', 'ReturnPointsWon', 'ServiceGamesPlayed', 'ServiceGamesWon', 'TotalPointsWon', 'TotalServicePointsWon']]
