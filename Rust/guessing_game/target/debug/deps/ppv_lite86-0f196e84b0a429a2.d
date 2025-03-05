@@ -1,0 +1,11 @@
+/home/vinicius/Documents/Portfolio/Projects/Rust/guessing_game/target/debug/deps/libppv_lite86-0f196e84b0a429a2.rmeta: /home/vinicius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/lib.rs /home/vinicius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/soft.rs /home/vinicius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/types.rs /home/vinicius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/mod.rs /home/vinicius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/sse2.rs
+
+/home/vinicius/Documents/Portfolio/Projects/Rust/guessing_game/target/debug/deps/libppv_lite86-0f196e84b0a429a2.rlib: /home/vinicius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/lib.rs /home/vinicius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/soft.rs /home/vinicius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/types.rs /home/vinicius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/mod.rs /home/vinicius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/sse2.rs
+
+/home/vinicius/Documents/Portfolio/Projects/Rust/guessing_game/target/debug/deps/ppv_lite86-0f196e84b0a429a2.d: /home/vinicius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/lib.rs /home/vinicius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/soft.rs /home/vinicius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/types.rs /home/vinicius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/mod.rs /home/vinicius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/sse2.rs
+
+/home/vinicius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/lib.rs:
+/home/vinicius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/soft.rs:
+/home/vinicius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/types.rs:
+/home/vinicius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/mod.rs:
+/home/vinicius/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/sse2.rs:
