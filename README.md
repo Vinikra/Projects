@@ -1,47 +1,57 @@
-# **Portfólio de Projetos – Vinicius Krasnievicz Garcia**
+# Vinicius Krasnievicz - Project Portfolio
 
-## **Descrição**
-Repositório contendo projetos de ciência de dados, machine learning e automação. Cada projeto inclui documentação, código-fonte e insights obtidos a partir das análises realizadas.
+Welcome to my project portfolio! I'm a developer and data enthusiast with a passion for building efficient, scalable, and data-driven solutions. This repository showcases my work using modern programming languages and tools, with a focus on Rust and Python.
 
-## **Estrutura do Repositório**
-```
-📂 projetos
-   ├── 📂 Machine Learning
-   │   ├── projeto1/
-   │   ├── projeto2/
-   │   └── README.md
-   ├── 📂 Data Analysis
-   │   ├── projeto1/
-   │   ├── projeto2/
-   │   └── README.md
-   ├── 📂 Automation
-   │   ├── bot-trading/
-   │   ├── script-analise/
-   │   └── README.md
-   └── README.md
-```
+## About Me
 
-## **Tecnologias Utilizadas**
-- **Linguagens:** Python, SQL  
-- **Bibliotecas:** Pandas, NumPy, Scikit-Learn, TensorFlow  
-- **Ferramentas:** Docker, Git, Jupyter Notebook  
+I specialize in software development and data science, leveraging powerful tools to solve real-world problems. My projects range from high-performance applications to machine learning models, reflecting my interest in both systems programming and data analysis.
 
-## **Como Usar**
-Clone o repositório e navegue até o diretório desejado:
-```bash
-git clone https://github.com/Vinikra/Projects.git
-cd Projects
-```
+- **Languages**: Rust, Python  
+- **Libraries & Frameworks**: Pandas, NumPy, Scikit-Learn, TensorFlow  
+- **Interests**: Systems programming, data analysis, machine learning, optimization  
 
-## **Projetos em Destaque**
-### 🔹 **[Bot de Arbitragem de Criptomoedas](projetos/automacao/bot-trading)**
-> Bot automatizado para arbitragem no mercado de criptomoedas, aplicando técnicas de análise quantitativa e machine learning para identificar oportunidades de negociação.
+## Projects
 
-### 🔹 **[Modelo Preditivo de Preços](projetos/machine-learning/projeto1)**
-> Modelo de machine learning para prever preços de ativos financeiros com base em séries temporais.
+Below are some highlights of my work. Each project demonstrates my skills in coding, problem-solving, and applying technology to practical challenges.
 
-## **Contato**
-📧 Email: `vinikra14@email.com`  
-🔗 LinkedIn: https://www.linkedin.com/in/vinikra/
-🐙 GitHub: https://github.com/Vinikra
+### 1. Data Analysis
+- **Description**: A collection of tools and scripts for exploring, cleaning, and visualizing datasets to uncover meaningful insights.
+- **Technologies**: Python, Pandas, NumPy
+- **Key Features**: 
+  - Efficient data preprocessing and transformation pipelines
+  - Custom visualizations for trends and patterns
 
+### 2. Machine Learning
+- **Description**: A set of machine learning models designed to solve predictive and classification tasks with real-world applications.
+- **Technologies**: Python, Scikit-Learn, TensorFlow
+- **Key Features**: 
+  - Model training and evaluation with cross-validation
+  - Hyperparameter tuning for optimized performance
+
+### 3. Rust
+- **Description**: High-performance applications and utilities built with Rust, focusing on speed, safety, and concurrency.
+- **Technologies**: Rust
+- **Key Features**: 
+  - Memory-safe and thread-safe implementations
+  - Command-line tools for system-level tasks
+
+## Skills
+
+- **Rust**: Building fast, safe, and concurrent applications.
+- **Python**: Data analysis, scripting, and machine learning.
+- **Pandas & NumPy**: Efficient data manipulation and numerical computations.
+- **Scikit-Learn**: Machine learning model development and evaluation.
+- **TensorFlow**: Deep learning and neural network implementations.
+
+## Getting Started
+
+To explore my projects:  
+1. Clone the repository and navigate to the desired directory:
+   ```bash
+   git clone https://github.com/Vinikra/Projects.git
+   cd Projects
+
+Feel free to reach out if you'd like to collaborate or discuss my work!  
+- **Email**: vinikra14@gmail.com  
+- **GitHub**: https://github.com/Vinikra  
+- **LinkedIn**: https://www.linkedin.com/in/vinikra
