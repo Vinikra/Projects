@@ -14,21 +14,14 @@ I specialize in software development and data science, leveraging powerful tools
 
 Below are some highlights of my work. Each project demonstrates my skills in coding, problem-solving, and applying technology to practical challenges.
 
-### 1. Data Analysis
-- **Description**: A collection of tools and scripts for exploring, cleaning, and visualizing datasets to uncover meaningful insights.
-- **Technologies**: Python, Pandas, NumPy
-- **Key Features**: 
-  - Efficient data preprocessing and transformation pipelines
-  - Custom visualizations for trends and patterns
-
-### 2. Machine Learning
+### 1. Machine Learning
 - **Description**: A set of machine learning models designed to solve predictive and classification tasks with real-world applications.
 - **Technologies**: Python, Scikit-Learn, TensorFlow
 - **Key Features**: 
   - Model training and evaluation with cross-validation
   - Hyperparameter tuning for optimized performance
 
-### 3. Rust
+### 2. Rust
 - **Description**: High-performance applications and utilities built with Rust, focusing on speed, safety, and concurrency.
 - **Technologies**: Rust
 - **Key Features**: 
@@ -52,6 +45,5 @@ To explore my projects:
    cd Projects
 
 Feel free to reach out if you'd like to collaborate or discuss my work!  
-- **Email**: vinikra14@gmail.com  
-- **GitHub**: https://github.com/Vinikra  
+- **Email**: vincius@vinikra.com
 - **LinkedIn**: https://www.linkedin.com/in/vinikra
