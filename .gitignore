@@ -1,0 +1,25 @@
+# Rust-specific ignores
+/target/
+/**/*.rs.bk
+
+# Python-specific ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# SQLite database file (se aplicável)
+tasks.db
+
+# Optional: Ignore editor/IDE files and logs
+*.swp
+*.swo
+.vscode/
+.idea/
+*.log
