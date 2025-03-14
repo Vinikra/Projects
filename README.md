@@ -47,4 +47,4 @@ To explore my projects:
 Feel free to reach out if you'd like to collaborate or discuss my work!  
 - **Email**: vincius@vinikra.com
 - **LinkedIn**: https://www.linkedin.com/in/vinikra
-- **website**: https://vinikra.com
+- **Website**: https://vinikra.com
