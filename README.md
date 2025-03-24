@@ -14,14 +14,7 @@ I specialize in software development and data science, leveraging powerful tools
 
 Below are some highlights of my work. Each project demonstrates my skills in coding, problem-solving, and applying technology to practical challenges.
 
-### 1. Machine Learning
-- **Description**: A set of machine learning models designed to solve predictive and classification tasks with real-world applications.
-- **Technologies**: Python, Scikit-Learn, TensorFlow
-- **Key Features**: 
-  - Model training and evaluation with cross-validation
-  - Hyperparameter tuning for optimized performance
-
-### 2. Rust
+### 1. Rust
 - **Description**: High-performance applications and utilities built with Rust, focusing on speed, safety, and concurrency.
 - **Technologies**: Rust
 - **Key Features**: 
